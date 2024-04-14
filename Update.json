@@ -1,9 +1,7 @@
 {
-  "published_at":"04/11/2024 15:40:00 PM",
-  "tag_name":"v1.2.7.79 - OSD Fixed.",
+  "published_at":"04/12/2024 15:40:00 PM",
+  "tag_name":"v1.2.7.80 - Fixed M3U URL.",
   "download_url_x86":"https://raw.githubusercontent.com/K4L4Uz/SFVIP-Player/master/Update_x86.zip",
   "download_url_x64":"https://raw.githubusercontent.com/K4L4Uz/SFVIP-Player/master/Update_x64.zip",
-  "wallet_address":"bc1qavv7vvs294ys5vl6e5ne0t86kxvq5n04j6pmf6",
-  "bitcoin_wallet":"bc1qavv7vvs294ys5vl6e5ne0t86kxvq5n04j6pmf6",
-  "ethereum_wallet":"0x482231079C6BE5e4CD4efBa07fB15D95f9426a8d"
+  "wallet_address":"bc1qavv7vvs294ys5vl6e5ne0t86kxvq5n04j6pmf6"
 }
