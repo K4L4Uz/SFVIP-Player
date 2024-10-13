@@ -2,4 +2,4 @@
 
 # Donate
 If you like this software, consider making a donation to the developer. Thank you!
-- Bitcoin BTC: **bc1qavv7vvs294ys5vl6e5ne0t86kxvq5n04j6pmf6**
+- Bitcoin BTC: **bc1qttmcx7duw4fn0s0hsnm9e4lzy4jmg7f66as47z**
