@@ -1,7 +1,8 @@
 {
-  "published_at":"10/26/2024 15:40:00 PM",
-  "tag_name":"v1.2.7.88 - Fixed file associations...",
+  "published_at":"11/12/2024 15:40:00 PM",
+  "tag_name":"v1.2.7.90 - Bugfix... Some code Improvements.",
   "download_url_x86":"https://raw.githubusercontent.com/K4L4Uz/SFVIP-Player/master/Update_x86.zip",
   "download_url_x64":"https://raw.githubusercontent.com/K4L4Uz/SFVIP-Player/master/Update_x64.zip",
-  "wallet_address":"bc1qxdal85srl64avnxjuudttsz8hv60a8kyea5ur2"
+  "wallet_address":"bc1qxdal85srl64avnxjuudttsz8hv60a8kyea5ur2",
+  "ethereum_address":"0x482231079C6BE5e4CD4efBa07fB15D95f9426a8d"
 }
